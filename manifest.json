@@ -13,7 +13,7 @@
   "author": "Res Tapi",
   "authorNick": "rest",
   "repository": "git://github.com/rest/numbers.kdapp.git",
-  "description": "Numbers : a Koding application created with the blank template.",
+  "description": "Numbers : 2048/Threes clone for Koding",
   "category": "web-app",
   "source": {
     "blocks": {
